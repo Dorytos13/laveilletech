@@ -14,14 +14,14 @@ description = "Passionnée par les nouvelles technologies et l'innovation, j'aim
 ## Mon Ikigai
 
 <div style="text-align: left;">
-  <img src="/images/ikigai.png" alt="Mon Ikigai" width="100%">
+  <img src="static/images/ikigai.png" alt="Mon Ikigai" width="100%">
 </div>
 
 ##
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 0 0 50%;">
-    <img src="/images/matrice.png" alt="Matrice" width="100%">
+    <img src="static/images/matrice.png" alt="Matrice" width="100%">
   </div>
   <div style="flex: 1;">
     <p>Je souhaite faire passer des messages, créer du lien, donner de la visibilité ce qui est complétement dans l'aspect de la communication.</p>

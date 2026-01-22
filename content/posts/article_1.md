@@ -4,7 +4,7 @@ draft = false
 title = 'Ma methodologie de veille technologique'
 description = "Decouvrez comment j'ai structure mon HUB de veille technologique sur Notion pour organiser mes inspirations, projets et ressources."
 tags = ["Veille technologique", "Innovation"]
-image = "/images/veilletech.jpeg"
+image = "static/images/veilletech.jpeg"
 imageAlt = "Veille"
 toc = true
 +++

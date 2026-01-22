@@ -4,7 +4,7 @@ draft = false
 title = "Apprendre et créer avec les LLM : Le nouveau paradigme de la communication digitale" 
 description = "Réflexion sur l'impact des Large Language Models (LLM) dans la création de contenu, le no-code et la stratégie digitale : entre gain d'efficacité et quête d'authenticité."
 tags = ["LLM", "Communication Digitale", "No-code", "UX Design", "IA"]
-image = "/images/LLM.png"
+image = "static/images/LLM.png"
 imageAlt = "LLM"
 toc = true
 +++
